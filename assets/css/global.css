@@ -20,10 +20,24 @@ h1 { background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%); background-c
 
 .modules-list .module { margin: 24px; color: #FFF; text-align: center; font-family: Raleway; font-size: 15px; font-weight:bolder; border-radius: 57px; border: 1px solid #33A8DB; background: #252525; box-shadow: -2px 6px 4px 0px rgba(0, 0, 0, 0.40) inset; padding: 15px; }
 
+.modules-list .module span{color:#33A8DB}
+
 #transform-world { height: 370px; background-image: url('../images/woman-code.png'); background-size:cover; background-attachment:fixed; background-repeat:no-repeat; background-position: center; border: 1px solid #33A8DB;  } 
 
 #transform-world p { text-transform: lowercase; width: 250px; height:140px; padding: 100px 50px 70px; text-align:left; color: #FFF; text-shadow: 3px 2px 0px #33A8DB; font-family: Raleway; font-size: 25px; font-style: normal; font-weight: 900;  }
 
-#professional-challenges { border-bottom: 1px solid #33A8DB;}
+#professional-challenges { border-bottom: 1px solid #33A8DB; margin-bottom:24px;}
+
+#professional-challenges h2 { text-transform:uppercase; margin: 50px auto 5px; }
+
+#professional-challenges p {color: #FFF; text-align: center; font-family: Raleway; font-size: 12px; font-weight:bolder; width:700px; margin: 16px auto 32px; }
 
 .banner .banner-content button { color:#31A8DD; font-family: Raleway; font-size: 16px; font-weight: 900; letter-spacing: 4px; width: 326px; padding: 20px 0px; background-color:transparent; gap: 31px; text-transform:uppercase; border:2px solid #3ba1cd; border-image:linear-gradient(#3ba1cd,#1572b7); border-image-slice:9; padding: 16px 32px; margin-bottom: 75px;}
+
+footer img{ margin: 16px; text-align:center;}
+
+footer p {font-weight:bold; font-family:'Raleway'; text-align:center; margin:auto; }
+
+footer a {text-decoration:none; color:#33A8DB; font-weight:bolder;}
+
+/*MAIS CONSIDERAÇÕES FINAIS: Muitos conceitos foram introduzidos de uma só vez e algumas estruturas não ficaram tão obvias quanto deveriam ser dentro do site figma... não foi resolvido o exercicio da melhor maneira possivel porem foi resolvido de maneira autentica dentro das minhas abilidades. Teria sido melhor se houvessem vários exercicios separados ao invés de um exercicio massivo e sinceramente confuso por parte tanto do site de referencia quanto das aulas originais não se adequando totalmente aos testes quano algo falha.*/
