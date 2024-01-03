@@ -24,7 +24,7 @@ h1 { background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%); background-c
 
 #transform-world { height: 370px; background-image: url('../images/woman-code.png'); background-size:cover; background-attachment:fixed; background-repeat:no-repeat; background-position: center; border: 1px solid #33A8DB;  } 
 
-#transform-world p { text-transform: lowercase; width: 250px; height:140px; padding: 100px 50px 70px; text-align:left; color: #FFF; text-shadow: 3px 2px 0px #33A8DB; font-family: Raleway; font-size: 25px; font-style: normal; font-weight: 900;  }
+#transform-world p { text-transform: lowercase; width: 250px; height:140px; padding: 100px 50px 70px; text-align:left; color: #FFF; text-shadow: 3px 2px 0px #33A8DB; font-family: Raleway; font-size: 30px; font-style: normal; font-weight: 900; }
 
 #professional-challenges { border-bottom: 1px solid #33A8DB; margin-bottom:24px;}
 
