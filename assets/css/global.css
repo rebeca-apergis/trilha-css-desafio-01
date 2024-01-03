@@ -20,11 +20,9 @@ h1 { background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%); background-c
 
 .modules-list .module { margin: 24px; color: #FFF; text-align: center; font-family: Raleway; font-size: 15px; font-weight:bolder; border-radius: 57px; border: 1px solid #33A8DB; background: #252525; box-shadow: -2px 6px 4px 0px rgba(0, 0, 0, 0.40) inset; padding: 15px; }
 
-#transform-world { height: 500px; background-image: url('../images/woman-code.png'); background-size:cover; background-attachment:fixed; cover:no-repeat; border: 1px solid #33A8DB;  } 
+#transform-world { height: 370px; background-image: url('../images/woman-code.png'); background-size:cover; background-attachment:fixed; background-repeat:no-repeat; background-position: center; background-size: contain; border: 1px solid #33A8DB;  } 
 
-#transform-world p { font-weight:bold; font-size: 35px; }
-
-#transform-world img { }
+#transform-world p { color: #FFF; text-shadow: 3px 2px 0px #33A8DB; font-family: Raleway; font-size: 25px; font-style: normal; font-weight: 900;  }
 
 #professional-challenges { border-bottom: 1px solid #33A8DB;}
 
